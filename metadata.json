@@ -1,0 +1,6 @@
+{
+  "name": "SatyaNews",
+  "description": "AI-first autonomous newsroom and multi-source research engine with Bengali, English, and Hindi support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
